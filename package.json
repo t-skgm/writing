@@ -1,0 +1,10 @@
+{
+  "name": "writing",
+  "version": "1.0.0",
+  "description": "my writing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t-skgm/march-am",
+  "license": "CC BY 4.0"
+}
